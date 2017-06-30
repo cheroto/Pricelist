@@ -1,0 +1,660 @@
+Cat.,Zaneen Model #,Series,Description,CAD MSRP ,USD MSRP 
+D,D8-1000,TWISTER,Pendant,1024.00,820.00
+D,D8-1001,TWISTER,Pendant,1328.00,1062.00
+D,D8-1002,KUBIK,Pendant,618.00,484.00
+D,D8-1003,KUBIK,Pendant,722.00,576.00
+D,D8-1004,BLOW,Pendant,812.00,648.00
+D,D8-1005,BLOW,Pendant,1092.00,872.00
+D,D8-1006,BLOW MINI,Pendant,498.00,400.00
+D,D8-1009,DENIS,Pendant,774.00,774.00
+D,D8-1014,WILLY,Suspension - 60cm White,3112.00,2444.00
+D,D8-1015,JAZZ,Pendant,500.00,402.00
+D,D8-1531,JAZZ,Pendant,704.00,560.00
+D,D8-1016,JAZZ,Pendant,420.00,338.00
+D,D8-1532,JAZZ,Pendant,498.00,400.00
+D,D8-1017,JAZZ,Pendant,192.00,154.00
+D,D8-1533,JAZZ,Pendant,394.00,310.00
+D,D8-1018,JAZZ,Pendant,244.00,196.00
+D,D8-1534,JAZZ,Pendant,528.00,414.00
+D,D8-1019,JAZZ,Pendant,326.00,262.00
+D,D8-1535,JAZZ,Pendant,608.00,478.00
+D,D8-1022,BLUES,Pendant,2050.00,2050.00
+D,D8-1032,LOOP,Pendant,1820.00,1820.00
+D,D8-1033,PLANET,Pendant,1452.00,1452.00
+D,D8-1035,PLANET,Pendant,1746.00,1746.00
+D,D8-1038,BLISSY,Pendant,1664.00,1664.00
+D,D8-1040,GLIM MINI,Pendant,870.00,570.00
+D,D8-1045,DOMINO,Pendant - White,528.00,422.00
+D,D8-1046,DOMINO,Pendant - Black,528.00,422.00
+D,D8-1048,DOMINO,Pendant - White,596.00,476.00
+D,D8-1049,DOMINO,Pendant - Black,596.00,476.00
+D,D8-1056,WILLY,Suspension - 60cm Black Glass,3112.00,2444.00
+D,D8-1057,WILLY,Suspension - 40cm White Glass,1430.00,1130.00
+D,D8-1563,WILLY,Suspension - 40cm Silver Leaf Glass,1804.00,1432.00
+D,D8-1058,WILLY,Suspension - 40cm Black Glass,1430.00,1130.00
+D,D8-1059,WILLY,Pendant - Small with White Glasss,596.00,476.00
+D,D8-1060,WILLY,Pendant - Small with Black Glass,596.00,476.00
+D,D8-1064,MINE,Pendant - 1-lt. w/out Canopy,396.00,396.00
+D,D8-1070,WAVE,Pendant - 1-lt. w/out Canopy,488.00,488.00
+D,D8-1072,WAVE,Pendant Holder Only - 6-lt. Gray Metallic,322.00,260.00
+D,D8-1075,FLORAL,Pendant,1920.00,1540.00
+D,D8-1076,FLORAL,Pendant,3050.00,2426.00
+D,D8-1077,WILLY 100,Suspension 100,4910.00,3860.00
+D,D8-1564,WILLY 100,Suspension 100 - LED 3500K White,5668.00,4586.00
+D,D8-1078,WILLY 100,Suspension 100 - Black,5044.00,3970.00
+D,D8-1085,RING,Pendant - White,1028.00,1028.00
+D,D8-1088,RING,Pendant - Orange,1028.00,1028.00
+D,D8-1090,RING,Pendant - White,1608.00,1608.00
+D,D8-1100,TOURBILLON,Pendant - White/White,750.00,750.00
+D,D8-1101,TOURBILLON,Pendant - White/Black,750.00,750.00
+D,D8-1104,TOURBILLON,Pendant - White/Green,660.00,660.00
+D,D8-1107,TOURBILLON,Pendant - White/Red,1740.00,1740.00
+D,D8-1108,TOURBILLON,Pendant - White/Orange,1740.00,1740.00
+D,D8-1116,DEBUT,Pendant - Crocodile/Red,1308.00,1308.00
+D,D8-1118,DEBUT,Pendant - Ostrich/White,1308.00,1308.00
+D,D8-1132,SNAKE,Pendant - Crocodile/Black,1330.00,1330.00
+D,D8-1144,TOURBILLON,Pendant - White/White,652.00,652.00
+D,D8-1150,AFEF,Pendant - White/Black,3956.00,3956.00
+D,D8-1160,TRACK,Pendant - Gray Metal - without Canopy,928.00,744.00
+D,D8-1164,RING,Pendant - White,748.00,748.00
+D,D8-1169,RING,Pendant - White - without Canopy,652.00,652.00
+D,D8-1176,RING,Pendant - Polished Stainless Steel,1110.00,1110.00
+D,D8-1181,AGAVE,Pendant - 50cm White,5340.00,4260.00
+D,D8-1522,AGAVE,Pendant - 50cm Gold Leaf,6898.00,5518.00
+D,D8-1523,AGAVE,Pendant - 50cm Silver Leaf,6898.00,5518.00
+D,D8-1524,AGAVE,Pendant - 50cm Copper Leaf,6898.00,5518.00
+D,D8-1182,AGAVE,Pendant - 70cm White,10148.00,8092.00
+D,D8-1525,AGAVE,Pendant - 70cm Gold Leaf,13086.00,10460.00
+D,D8-1526,AGAVE,Pendant - 70cm Silver Leaf,13086.00,10460.00
+D,D8-1527,AGAVE,Pendant - 70cm Copper Leaf,13086.00,10460.00
+D,D8-1183,AGAVE,Pendant - 90cm White,15534.00,12384.00
+D,D8-1528,AGAVE,Pendant - 90cm Gold Leaf,20040.00,16014.00
+D,D8-1529,AGAVE,Pendant - 90cm Silver Leaf,20040.00,16014.00
+D,D8-1530,AGAVE,Pendant - 90cm Copper Leaf,20040.00,16014.00
+D,D8-1184,DREAMY,Suspension - 25cm,1146.00,920.00
+D,D8-1185,DREAMY,Suspension - 40cm,1666.00,1326.00
+D,D8-1269,BRERA,Chandelier - 8-lt. Chrome/Red,10478.00,8400.00
+D,D8-1314,MOMA,Chandelier - 6-lt. Chrome/White,7596.00,6076.00
+D,D8-1329,TATE,Chandelier - 6-lt. Chrome/Black,7194.00,5752.00
+D,D8-1330,TATE,Chandelier - 8-lt. Chrome/White,8490.00,6798.00
+D,D8-1342,WILLY,Suspension - 50cm White,1794.00,1432.00
+D,D8-1343,WILLY,Suspension - 50cm Black,1794.00,1432.00
+D,D8-1344,WILLY,Suspension - Metallized Gray Aluminum,2126.00,1684.00
+D,D8-1350,ONE,Pendant - Metallized Brown,538.00,430.00
+D,D8-1354,TWO,Pendant - Sanded Aluminum,538.00,430.00
+D,D8-1355,TWO,Pendant - Metallized Brown,538.00,430.00
+D,D8-1356,LINE,Pendant - White,956.00,764.00
+D,D8-1357,LINE,Pendant - Gold Leaf,1240.00,994.00
+D,D8-1358,LINE,Pendant - Chrome,1146.00,916.00
+D,D8-1359,LINE,Pendant - Metallized Brown,956.00,764.00
+D,D8-1360,VIKI,Suspension - 2-lt.,1654.00,1298.00
+D,D8-1361,VIKI,Suspension - 3-lt.,2368.00,1840.00
+D,D8-1365,JAZZ,Pendant - Metallized Gray,500.00,402.00
+D,D8-1562,JAZZ,Pendant - LED - Metallized Gray,640.00,514.00
+D,D8-1383,DOMINO,Pendant - Gold Leaf,690.00,554.00
+D,D8-1477,DOMINO,Pendant - Silver Leaf,690.00,554.00
+D,D8-1478,DOMINO,Pendant - Copper Leaf,690.00,554.00
+D,D8-1384,DOMINO,Pendant - Gold Leaf,780.00,624.00
+D,D8-1479,DOMINO,Pendant - Silver Leaf,780.00,624.00
+D,D8-1480,DOMINO,Pendant - Copper Leaf,780.00,624.00
+D,D8-1387,WILLY,Suspension - 60cm - Glossy White,2340.00,1856.00
+D,D8-1388,WILLY,Suspension - 60cm - Gold Leaf,3438.00,2444.00
+D,D8-1392,WILLY,Suspension - 100cm - Gold Leaf,7930.00,6146.00
+D,D8-1481,WILLY,Suspension - 100cm - Silver Leaf,7590.00,5904.00
+D,D8-1482,WILLY,Suspension - 100cm - Copper Leaf,7590.00,5904.00
+E,D8-1395,RALPH,Pendant - 35cm - Outdoor - 1x23W E26 CFL,1350.00,1074.00
+E,D8-1483,RALPH,Pendant - 35cm - Outdoor - 1x23W E26 CFL - White,1350.00,1074.00
+E,D8-1396,RALPH,Pendant - 50cm - Outdoor - 1x23W E26 CFL,1750.00,1382.00
+E,D8-1484,RALPH,Pendant - 50cm - Outdoor - 1x23W E26 CFL - White,1750.00,1382.00
+D,D8-1399,GILBERT,Pendant,664.00,532.00
+D,D8-1400,GILBERT,Pendant - LED 32W,1434.00,1132.00
+D,D8-1401,GILBERT,Pendant - LED 32W,1712.00,1340.00
+D,D8-1402,GILBERT,Pendant,1246.00,974.00
+D,D8-1403,VENETITRENTATRE,Suspension - LED 17W,948.00,754.00
+D,D8-1404,VENETITRENTATRE,Suspension - LED 25.5W,1190.00,950.00
+D,D8-1414,TUTU,Pendant - 55cm,1890.00,1478.00
+D,D8-1417,BLANCA,Suspension - LED - Dimmable - White,3554.00,2806.00
+D,D8-1418,BLANCA,Suspension - LED - Dimmable - Metallized Brown,3446.00,2720.00
+D,D8-1419,TUTU,Pendant - 70cm,2932.00,2290.00
+D,D8-1420,LINE,Pendant - Black,956.00,764.00
+D,D8-1486,LINE,Pendant - Silver Leaf,1240.00,994.00
+D,D8-1421,GILBERT,Pendant,936.00,742.00
+D,D8-1427,WILLY,Suspension - LED 31W - White,3482.00,2764.00
+D,D8-1428,WILLY,Suspension - LED 31W - Black,3482.00,2764.00
+D,D8-1489,WILLY,Suspension - Silver Leaf,3112.00,2444.00
+D,D8-1490,WILLY,Suspension - Copper Leaf,3112.00,2444.00
+D,D8-1429,FLAT,Suspension - 51cm - 1x46W + 1x11.5W LED - White,2414.00,1916.00
+D,D8-1430,FLAT,Suspension - 51cm - 1x46W + 1x11.5W LED - Metallized Brown,upon request,upon request
+D,D8-1491,FLAT,Suspension - 51cm - 1x46W + 1x11.5W LED - Gold Leaf,upon request,upon request
+D,D8-1492,FLAT,Suspension - 51cm - 1x 46W + 1x11.5W LED - Silver Leaf,upon request,upon request
+D,D8-1493,FLAT,Suspension - 51cm - 1x46W + 1x11.5W LED - Copper Leaf ,upon request,upon request
+D,D8-1431,GILBERT,Pendant - 9.5W 3000K - White,906.00,720.00
+E,D8-1432,RALPH,Pendant - 23W CFL Metallized Brown,4090.00,3142.00
+E,D8-1494,RALPH,Pendant - 23W CFL White,4090.00,3142.00
+D,D8-1433,KUBIK,Pendant - LED,804.00,638.00
+D,D8-1434,KUBIK,Pendant - LED,920.00,730.00
+D,D8-1436,BLANCA,Suspension - 90cm 69W 3000K White,4828.00,3780.00
+D,D8-1437,BLANCA,Suspension 90cm 69W 3000K Metallized Brown,4722.00,3694.00
+D,D8-1497,CANDLE,Pendant - 35W - G9 - Metallic Gray,432.00,348.00
+D,D8-1498,CANDLE,Pendant -  3.2 W LED 3000K CRI>80 320lm 24V  - Metallic Gray,640.00,510.00
+D,D8-1499,CANDLE,Pendant - No Canopy - 35W G9  - Metallic Gray,352.00,284.00
+D,D8-1500,CANDLE,Pendant - No Canopy - 3.2W LED - 3000K CRI>80 320lm - Metallic Gray,432.00,348.00
+D,D8-1539,EMMA,Pendant - 4W LED - 2700K-CRI>80 - Black - Amber Glass,800.00,640.00
+D,D8-1540,EMMA,Pendant - 4W LED - 2700K-CRI>80 - Black - Bronze Glass,800.00,640.00
+D,D8-1541,EMMA,Pendant - 4W LED - 2700K-CRI>80 - Black - Crystal Glass,800.00,640.00
+D,D8-1542,EMMA,Pendant - 4W LED - 2700K-CRI>80 - Black - Steel Glass,800.00,640.00
+D,D8-1543,EMMA,Pendant - 4W LED - 2700K-CRI>80 - Black - Tobacco Glass,800.00,640.00
+D,D8-1544,EMMA,Pendant - 4W LED - 2700K-CRI>80 - Copper - Amber Glass,860.00,690.00
+D,D8-1545,EMMA,Pendant - 4W LED - 2700K-CRI>80 - Copper - Bronze Glass,860.00,690.00
+D,D8-1546,EMMA,Pendant - 4W LED - 2700K-CRI>80 - Copper - Crystal Glass,860.00,690.00
+D,D8-1547,EMMA,Pendant - 4W LED - 2700K-CRI>80 - Copper - Steel Glass,860.00,690.00
+D,D8-1548,EMMA,Pendant - 4W LED - 2700K-CRI>80 - Copper - Tobacco Glass,860.00,690.00
+D,D8-1503,EMMA,Pendant - 4W LED - 2700K-CRI>80- No Canopy- Black - Amber Glass ,784.00,626.00
+D,D8-1504,EMMA,Pendant - 4W LED - 2700K-CRI>80- No Canopy - Black - Bronze Glass,784.00,626.00
+D,D8-1505,EMMA,Pendant - 4W LED - 2700K-CRI>80- No Canopy - Black - Crystal Glass,784.00,626.00
+D,D8-1506,EMMA,Pendant - 4W LED - 2700K-CRI>80- No Canopy - Black - Steel Glass,784.00,626.00
+D,D8-1507,EMMA,Pendant - 4W LED - 2700K-CRI>80- No Canopy - Black - Tobacco Glass,784.00,626.00
+D,D8-1549,CLIO,Pendant - 7W LED - 2700K-CRI>80 - Black - Amber Glass,760.00,612.00
+D,D8-1550,CLIO,Pendant - 7W LED - 2700K-CRI>80 - Black - Bronze Glass,760.00,612.00
+D,D8-1551,CLIO,Pendant - 7W LED - 2700K-CRI>80 - Black - Crystal Glass,760.00,612.00
+D,D8-1552,CLIO,Pendant - 7W LED - 2700K-CRI>80 - Black - Steel Glass,760.00,612.00
+D,D8-1553,CLIO,Pendant - 7W LED - 2700K-CRI>80 - Black - Tobacco Glass,760.00,612.00
+D,D8-1554,CLIO,Pendant - 7W LED - 2700K-CRI>80 - Copper - Amber Glass,820.00,660.00
+D,D8-1555,CLIO,Pendant - 7W LED - 2700K-CRI>80 - Copper - Bronze Glass,820.00,660.00
+D,D8-1556,CLIO,Pendant - 7W LED - 2700K-CRI>80 - Copper - Crystal Glass,820.00,660.00
+D,D8-1557,CLIO,Pendant - 7W LED - 2700K-CRI>80 - Copper - Steel Glass,820.00,660.00
+D,D8-1558,CLIO,Pendant - 7W LED - 2700K-CRI>80 - Copper - Tobacco Glass,820.00,660.00
+D,D8-1508,CLIO,Pendant - 7W LED - 2700K-CRI>80- No Canopy - Black - Amber Glass,744.00,598.00
+D,D8-1509,CLIO,Pendant - 7W LED - 2700K-CRI>80- No Canopy - Black - Bronze Glass,744.00,598.00
+D,D8-1510,CLIO,Pendant - 7W LED - 2700K-CRI>80 - No Canopy - Black - Crystal Glass,744.00,598.00
+D,D8-1511,CLIO,Pendant - 7W LED - 2700K-CRI>80 - No Canopy - Black - Steel Glass,744.00,598.00
+D,D8-1512,CLIO,Pendant - 7W LED - 2700K-CRI>80- No Canopy - Black - Tobacco Glass,744.00,598.00
+D,D8-1565,CLIO,Pendant - 7W LED - 2700K-CRI>80- No Canopy - Copper - Amber Glass,760.00,612.00
+D,D8-1566,CLIO,Pendant - 7W LED - 2700K-CRI>80- No Canopy - Copper - Bronze Glass,760.00,612.00
+D,D8-1567,CLIO,Pendant - 7W LED - 2700K-CRI>80 - No Canopy - Copper - Crystal Glass,760.00,612.00
+D,D8-1568,CLIO,Pendant - 7W LED - 2700K-CRI>80 - No Canopy - Copper - Steel Glass,760.00,612.00
+D,D8-1569,CLIO,Pendant - 7W LED - 2700K-CRI>80- No Canopy - Copper - Tobacco Glass,760.00,612.00
+D,D8-2000,BLOW,Ceiling Surface - White Glass,824.00,656.00
+D,D8-2001,ALVI,Ceiling Surface - White Glass,628.00,500.00
+D,D8-2003,DELPHINIA,Ceiling Surface - White Glass,410.00,328.00
+D,D8-2004,DELPHINIA,Ceiling Surface - White Glass,628.00,504.00
+D,D8-2005,DELPHINIA,Ceiling Surface - White Glass,858.00,686.00
+D,D8-2006,DISCO,Ceiling Surface - White Glass,510.00,406.00
+D,D8-2007,DISCO,Ceiling Surface - White Glass,660.00,524.00
+D,D8-2008,DISCO,Ceiling Surface - White Glass,864.00,686.00
+D,D8-2014,TU-B,Ceiling Surface,998.00,998.00
+D,D8-2015,TU-B,Ceiling Surface,1404.00,1404.00
+D,D8-2017,WING,Ceiling Surface,740.00,740.00
+D,D8-2018,WING,Ceiling Surface,658.00,658.00
+D,D8-2028,TECLA,Ceiling Surface,926.00,926.00
+D,D8-2033,DOMINO,Ceiling Surface - White Glass,420.00,336.00
+D,D8-2034,DOMINO,Ceiling Surface - Black Glass,420.00,336.00
+D,D8-2036,DOMINO,Ceiling Surface - White Glass,500.00,400.00
+D,D8-2037,DOMINO,Ceiling Surface - Black Glass,500.00,400.00
+D,D8-2039,DOMINO,Ceiling Surface - White Glass,830.00,668.00
+D,D8-2040,DOMINO,Ceiling Surface - Black Glass,830.00,668.00
+D,D8-2042,DOMINO,Ceiling Surface - White Glass,1662.00,1334.00
+D,D8-2043,DOMINO,Ceiling Surface - Black Glass,1662.00,1334.00
+D,D8-2045,DOMINO,Ceiling Surface - White Glass,3528.00,2816.00
+D,D8-2046,DOMINO,Ceiling Surface - Black Glass,3528.00,2816.00
+D,D8-2049,CANDLE,Ceiling Surface - 1lt,316.00,316.00
+D,D8-2058,FLORAL,Ceiling Surface,1896.00,1522.00
+D,D8-2059,FLAN,Ceiling Surface,416.00,334.00
+D,D8-2060,FLAN,Ceiling Surface,884.00,694.00
+D,D8-2061,FLAN,Ceiling Surface,1470.00,1160.00
+D,D8-2074,DOMINO,Ceiling Surface - Inox,1046.00,1046.00
+A,D8-2240,BROOKLYN OUT,Surface Ceiling Profile 525mm w/Diffuser,86.00,68.00
+A,D8-2241,BROOKLYN OUT,Surface Ceiling Profile 1025mm w/Diffuser,170.00,136.00
+A,D8-2242,BROOKLYN OUT,Surface Ceiling Profile 2025mm w/Diffuser,322.00,256.00
+A,D8-2243,BROOKLYN OUT,Surface Ceiling Profile 3025mm w/Diffuser,484.00,384.00
+D,D8-2075,DOMINO,Ceiling Surface - Inox,1222.00,1222.00
+D,D8-2076,TOURBILLON,Ceiling Surface White/White,1294.00,1030.00
+D,D8-2086,TOURBILLON,Ceiling Surface White/White,1596.00,1596.00
+D,D8-2091,TRACK,Ceiling Surface,790.00,632.00
+D,D8-2098,AGAVE,Ceiling Surface 50cm,3136.00,2508.00
+D,D8-2263,AGAVE,Ceiling Surface 50cm Gold Leaf,4068.00,3258.00
+D,D8-2264,AGAVE,Ceiling Surface 50cm Silver Leaf,4068.00,3258.00
+D,D8-2265,AGAVE,Ceiling Surface 50cm Copper Leaf,4068.00,3258.00
+D,D8-2101,DREAMY,Ceiling/Wall Surface 25cm,804.00,646.00
+D,D8-2103,NIGHT,Ceiling Surface 30cm,884.00,710.00
+D,D8-2104,NIGHT,Ceiling Surface 50cm,956.00,768.00
+D,D8-2107,ABBA,Ceiling/Wall Surface,550.00,550.00
+D,D8-2157,ONE,Ceiling Surface - White,366.00,292.00
+D,D8-2158,ONE,Ceiling Surface - Gold Leaf,474.00,378.00
+D,D8-2164,TWO,Ceiling Surface - Polished Aluminum,402.00,402.00
+D,D8-2165,TWO,Ceiling Surface - Sanded Aluminum,350.00,280.00
+D,D8-2166,TWO,Ceiling Surface - Metallic Brown,350.00,280.00
+D,D8-2167,THREE,Ceiling Surface - White,450.00,362.00
+D,D8-2168,THREE,Ceiling Surface - Sanded Aluminum,450.00,362.00
+D,D8-2169,THREE,Ceiling Surface - Metallic Brown,450.00,362.00
+D,D8-2173,VIKI,Ceiling Surface 2lt White,1302.00,1010.00
+D,D8-2174,VIKI,Ceiling Surface 3lt White,2084.00,1604.00
+D,D8-2183,DOMINO,Ceiling Surface - Gold Leaf,554.00,444.00
+D,D8-2319,DOMINO,Ceiling Surface - Silver  Leaf,554.00,444.00
+D,D8-2320,DOMINO,Ceiling Surface - Copper Leaf,554.00,444.00
+D,D8-2184,DOMINO,Ceiling Surface - Gold Leaf,646.00,518.00
+D,D8-2258,DOMINO,Ceiling Surface - Silver Leaf,646.00,518.00
+D,D8-2259,DOMINO,Ceiling Surface - Copper Leaf,646.00,518.00
+D,D8-2185,DOMINO,Ceiling Surface - Gold Leaf,1088.00,874.00
+D,D8-2260,DOMINO,Ceiling Surface - Silver Leaf,1088.00,874.00
+D,D8-2261,DOMINO,Ceiling Surface - Copper Leaf,1088.00,874.00
+D,D8-2186,DOMINO,Ceiling Surface - Gold Leaf,2174.00,1746.00
+D,D8-2262,DOMINO,Ceiling Surface - Silver Leaf,2174.00,1746.00
+D,D8-2272,DOMINO,Ceiling Surface - Copper Leaf,2174.00,1746.00
+D,D8-2187,DOMINO,Ceiling Surface - Gold Leaf,4558.00,3646.00
+D,D8-2273,DOMINO,Ceiling Surface - Silver Leaf,4558.00,3646.00
+D,D8-2274,DOMINO,Ceiling Surface - Copper Leaf,4558.00,3646.00
+D,D8-2189,TUTU,Ceiling Surface - 1 X 26/32/42W - White,1990.00,1544.00
+D,D8-2190,GILBERT,Ceiling Surface,702.00,552.00
+D,D8-2191,GILBERT,Ceiling Surface,962.00,746.00
+D,D8-2238,GILBERT,Ceiling Surface - 24W LED 3000K,1250.00,990.00
+D,D8-2239,GILBERT,Ceiling Surface - 24W LED 3000K,1562.00,1220.00
+D,D8-2192,CARMEN,Ceiling Surface - 49W 3000K - White,4272.00,3408.00
+D,D8-2193,CARMEN,Ceiling Surface - 49W 3000K - Black,4272.00,3408.00
+D,D8-2226,CARMEN,Ceiling Surface - 26W 3000K - White,2780.00,2200.00
+D,D8-2227,CARMEN,Ceiling Surface - 26W 3000K - Black,2780.00,2200.00
+E,D8-2278,FOUR,Ceiling Surface - White,668.00,538.00
+E,D8-2207,FOUR,Ceiling Surface - Metallic Brown,668.00,538.00
+D,D8-2208,ALL FLUO,Ceiling/Wall Surface - 2 X 18W - White,868.00,686.00
+D,D8-2213,ALL FLUO,Ceiling Wall Surface - 2 X 36W - Sanded Aluminum,1020.00,806.00
+D,D8-2216,ALL FLUO,Ceiling/Wall Surface - 4 X 36W - Sanded Aluminum,1280.00,1014.00
+D,D8-2217,TUTU,Ceiling Surface - 70cm,2820.00,2186.00
+D,D8-2228,FLAT,Ceiling Surface - 24W 3000K - White,1112.00,880.00
+D,D8-2282,FLAT,Ceiling Surface - 24W 3000K - Gold Leaf,1730.00,1378.00
+D,D8-2283,FLAT,Ceiling Surface - 24W 3000K - Silver Leaf,1730.00,1378.00
+D,D8-2284,FLAT,Ceiling Surface - 24W 3000K - Copper Leaf,1730.00,1378.00
+D,D8-2230,FLAT,Ceiling Surface - 46W 3000K - White,1686.00,1340.00
+D,D8-2285,FLAT,Ceiling Surface - 46W 3000K - Gold Leaf,2540.00,2028.00
+D,D8-2286,FLAT,Ceiling Surface - 46W 3000K - Silver Leaf,2540.00,2028.00
+D,D8-2287,FLAT,Ceiling Surface - 46W 3000K - Copper Leaf,2540.00,2028.00
+D,D8-2292,JACKIE,Wall/Ceiling Surface - 6.5W LED - 3000K - CRI 80 - White,540.00,430.00
+D,D8-2293,JACKIE,Wall/Ceiling Surface - 6.5W LED - 3000K - CRI 80 - Black,540.00,430.00
+D,D8-2294,JACKIE,Wall/Ceiling Surface - 6.5W LED - 3000K - CRI 80  - Red,582.00,464.00
+D,D8-2295,JACKIE,Wall/Ceiling Surface - 6.5W LED - 3000K - CRI 80  - Titanium,598.00,480.00
+D,D8-3000,TWISTER,Wall Surface,588.00,468.00
+D,D8-3001,TWISTER,Wall Surface,670.00,532.00
+D,D8-3002,KUBIK,Wall Surface,448.00,358.00
+D,D8-3003,KUBIK,Wall Surface,536.00,430.00
+D,D8-3004,KUBIK,Wall Surface,528.00,422.00
+D,D8-3005,KUBIK,Wall Surface,476.00,380.00
+D,D8-3006,BLOW,Wall Surface,670.00,532.00
+D,D8-3008,BLOW MINI,Wall Surface,364.00,292.00
+D,D8-3009,ALVI,Wall Surface,622.00,496.00
+D,D8-3014,DENIS,Wall Surface,630.00,630.00
+D,D8-3015,LIBRA,Wall Surface,544.00,544.00
+D,D8-3019,LUCILLA,Wall Surface,570.00,570.00
+D,D8-3022,SPYRA,Wall Surface,774.00,620.00
+D,D8-3023,ZENITH,Wall Surface,1250.00,986.00
+D,D8-3025,ZENITH,Wall Surface,472.00,368.00
+D,D8-3027,WILLY,Wall Surface,462.00,462.00
+D,D8-3032,TU-B,Wall Surface,1070.00,1070.00
+D,D8-3035,WING,Wall Surface,802.00,802.00
+D,D8-3036,WING,Wall Surface,720.00,720.00
+D,D8-3038,GLIM,Wall Surface,728.00,728.00
+D,D8-3043,BLISSY,Wall Surface,552.00,442.00
+D,D8-3045,BLISSY,Wall Surface,494.00,396.00
+D,D8-3047,CLASSIC,Wall Surface,668.00,530.00
+D,D8-3048,CLASSIC,Wall Surface,668.00,530.00
+D,D8-3049,CLASSIC,Wall Surface,752.00,598.00
+D,D8-3050,CLASSIC,Wall Surface,752.00,598.00
+D,D8-3053,TECLA,Wall Surface,372.00,298.00
+D,D8-3352,TECLA,Wall Surface,492.00,394.00
+D,D8-3055,TECLA,Wall Surface,450.00,360.00
+D,D8-3056,TECLA,Wall Surface,450.00,360.00
+D,D8-3057,TECLA,Wall Surface,536.00,430.00
+D,D8-3354,TECLA,Wall Surface,740.00,594.00
+D,D8-3060,WING MINI,Wall Surface,624.00,624.00
+D,D8-3068,DOMINO,Wall Surface - White Glass,456.00,456.00
+D,D8-3069,DOMINO,Wall Surface - Black Glass,456.00,456.00
+D,D8-3090,CARRE,Wall Surface,700.00,562.00
+D,D8-3091,CARRE,Wall Surface,782.00,628.00
+D,D8-3092,MINE,Wall Surface - 2lt,610.00,610.00
+D,D8-3093,SHADOW,Wall Surface - White/Red Glass,598.00,598.00
+D,D8-3095,TOURBILLON,Wall Surface - White/Red Glass,628.00,628.00
+D,D8-3096,TOURBILLON,Wall Surface - White/White Glass,574.00,460.00
+D,D8-3103,DOMINO,Wall Surface - Orange Glass,542.00,542.00
+D,D8-3105,TOURBILLON,Wall Surface - White/Black Glass,574.00,460.00
+D,D8-3113,CARRE PELLE,Wall Surface - Crocodile/Black,1380.00,1380.00
+D,D8-3125,AFEF,Wall Surface - White/White,700.00,700.00
+D,D8-3130,BRI-BRI,Wall Surface - 3lt Crystal,1298.00,1298.00
+D,D8-3132,RING,Wall Surface - Black Glass,672.00,672.00
+D,D8-3137,TOY,Wall Surface - White,540.00,428.00
+D,D8-3138,TOY,Wall Surface - Polished Stainless Steel,592.00,470.00
+D,D8-3139,TOY,Wall Surface - Matte Stainless Steel,592.00,470.00
+D,D8-3140,TOY,Wall Surface - White,892.00,706.00
+D,D8-3141,TOY,Wall Surface - Polished Stainless Steel,998.00,792.00
+D,D8-3142,TOY,Wall Surface - Matte Stainless Steel,998.00,792.00
+D,D8-3147,TOY,Wall Surface - White,284.00,228.00
+D,D8-3148,TOY,Wall Surface - Polished Stainless Steel,322.00,258.00
+D,D8-3149,TOY,Wall Surface - Matte Stainless Steel,322.00,258.00
+D,D8-3193,BRERA,Wall Surface - 2lt Chrome/Crystal,3166.00,2532.00
+D,D8-3200,GUGGENHEIM,Wall Surface - 3lt Chrome White/Black Glass ,3122.00,2490.00
+D,D8-3201,HERMITAGE,Wall Surface - 2lt Chrome/White Glass,3212.00,2566.00
+D,D8-3214,MOMA,Wall Surface - 3lt Chrome Black Glass,3004.00,2402.00
+D,D8-3220,TATE,Wall Surface - 2lt Chrome/White Glass,2172.00,1732.00
+D,D8-3222,UFFIZI,Wall Surface - 2lt Chrome/White Glass,2726.00,2178.00
+D,D8-3235,TOY,Wall Surface - Gold Leaf,358.00,288.00
+D,D8-3415,TOY,Wall Surface - Silver Leaf,358.00,288.00
+D,D8-3236,TOY,Wall Surface - Metallic Brown,282.00,226.00
+D,D8-3237,TOY,Wall Surface - Gold Leaf,716.00,568.00
+D,D8-3263,CROSS,Wall Surface -1x24W 2G10 - White,874.00,692.00
+D,D8-3264,CROSS,Wall Surface -1x24W 2G10 - Metallic Gray,874.00,692.00
+D,D8-3265,CROSS,Wall Surface -1x24W 2G10 - Metallic Brown,874.00,692.00
+D,D8-3266,CROSS,Wall Surface -2x24W T5 - White,1178.00,938.00
+D,D8-3267,CROSS,Wall Surface -2x24W T5 - Metallic Gray,1178.00,938.00
+D,D8-3278,TUTU,Wall Surface,1442.00,1128.00
+D,D8-3279,KUBIK,Wall Surface - 8W LED,646.00,512.00
+D,D8-3280,KUBIK,Wall Surface - 11W LED,732.00,582.00
+D,D8-3281,TOY,Wall Surface - LED - White,670.00,534.00
+D,D8-3282,TOY,Wall Surface - LED - Polished Stainless Steel,838.00,668.00
+D,D8-3283,TOY,Wall Surface - LED - Matte Stainless Steel,726.00,578.00
+D,D8-3284,TOY,Wall Surface - LED - Gold Leaf,726.00,578.00
+D,D8-3285,TOY,Wall Surface - LED - Metallic Brown,670.00,534.00
+D,D8-3371,TOY,Wall Surface - LED - Silver Leaf,726.00,578.00
+D,D8-3372,TOY,Wall Surface - LED - Copper Leaf,726.00,578.00
+D,D8-3286,TOY,Wall Surface - LED - White,1420.00,1116.00
+D,D8-3287,TOY,Wall Surface - LED - Polished Stainless Steel,1652.00,1304.00
+D,D8-3288,TOY,Wall Surface - LED - Matte Stainless Steel,1526.00,1202.00
+D,D8-3289,TOY,Wall Surface - LED - Gold Leaf,1526.00,1202.00
+D,D8-3290,TOY,Wall Surface - LED - Metallic Brown,1420.00,1116.00
+D,D8-3374,TOY,Wall Surface - LED - Silver Leaf,1526.00,1202.00
+D,D8-3375,TOY,Wall Surface - LED - Copper Leaf,1526.00,1202.00
+D,D8-3293,TOY GYPSO,Wall Surface - LED,836.00,668.00
+D,D8-3295,TOY GYPSO,Wall Surface - LED,1556.00,1226.00
+D,D8-3297,ACHEOS,Wall Surface - LED - White,590.00,470.00
+D,D8-3309,YPSILON,Wall Surface - White,692.00,546.00
+D,D8-3310,YPSILON,Wall Surface - Black,692.00,546.00
+D,D8-3311,YPSILON,Wall Surface - Chrome,802.00,634.00
+D,D8-3312,ZERO LED,Wall Surface - White,814.00,646.00
+D,D8-3313,ZERO LED,Wall Surface - Gold Leaf,1057.00,842.00
+D,D8-3314,ZERO LED,Wall Surface - Chrome,924.00,734.00
+D,D8-3381,ZERO LED,Wall Surface - Silver Leaf,1058.00,842.00
+D,D8-3316,ZERO LED,Wall Surface - White,1246.00,994.00
+D,D8-3317,ZERO LED,Wall Surface - Gold Leaf,1628.00,1302.00
+D,D8-3318,ZERO LED,Wall Surface - Chrome,1410.00,1126.00
+D,D8-3384,ZERO LED,Wall Surface - Silver Leaf,1628.00,1302.00
+D,D8-3385,ZERO LED,Wall Surface - Copper Leaf,1628.00,1302.00
+D,D8-3320,YPSILON,Wall Surface - White,734.00,576.00
+D,D8-3321,YPSILON,Wall Surface - Black,734.00,576.00
+D,D8-3322,YPSILON,Wall Surface - Chrome,844.00,664.00
+E,D8-3323,DRACO,Wall Surface Exterior - White,900.00,720.00
+E,D8-3324,DRACO,Wall Surface Exterior - Gray,900.00,720.00
+E,D8-3325,DRACO,Wall Surface Exterior - Metallic Brown,900.00,720.00
+D,D8-3326,CROSS,Wall Surface 2 x 9W 3000K LED - Metallic Gray,1052.00,1052.00
+D,D8-3327,CARMEN,Wall Surface - 11W 3000K - White,1182.00,932.00
+D,D8-3333,TOY,Wall Surface - 16W 3000K - White,1096.00,866.00
+D,D8-3334,TOY,Wall Surface - 16W 3000K- Gold Leaf,1304.00,1034.00
+D,D8-3335,TOY,Wall Surface - 16W 3000K - Polished Stainless Steel,1156.00,914.00
+D,D8-3336,TOY,Wall Surface - 16W 3000K - Matte Stainless Steel,1156.00,914.00
+D,D8-3390,TOY,Wall Surface - LED - Silver Leaf,1304.00,1034.00
+D,D8-3391,TOY,Wall Surface - LED - Copper Leaf,1304.00,1034.00
+D,D8-3343,TOY,Wall Surface - 32W 3000K - White,1794.00,1418.00
+D,D8-3344,TOY,Wall Surface - 32W 3000K- Gold Leaf,2162.00,1714.00
+D,D8-3345,TOY,Wall Surface - 32W 3000K - Polished Stainless Steel,1950.00,1544.00
+D,D8-3346,TOY,Wall Surface - 32W 3000K - Matte Stainless Steel,1950.00,1544.00
+D,D8-3396,TOY,Wall Surface - LED - Silver Leaf,2162.00,1714.00
+D,D8-3397,TOY,Wall Surface - LED - Copper Leaf,2162.00,1714.00
+D,D8-3348,CARMEN,Wall Surface - 11W 3000K - Black,1176.00,928.00
+D,D8-3349,CROSS,Wall Surface - 17W 3000K LED - White,1154.00,914.00
+D,D8-3399,CROSS,Wall Surface - 17W LED - 3000K - CRI>80 2200lm - Gold Leaf,1468.00,1114.00
+D,D8-3400,CROSS,Wall Surface - 17W LED - 3000K - CRI>80 2200lm - Silver Leaf,1468.00,1114.00
+D,D8-3402,CROSS,Wall Surface - 34W LED - 3000K - CRI>80 4400lm - White,1908.00,1508.00
+D,D8-3403,CROSS,Wall Surface - 34W LED - 3000K - CRI>80 4400lm - Gold Leaf,2418.00,1920.00
+D,D8-3404,CROSS,Wall Surface - 34W LED - 3000K - CRI>80 4400lm - Silver Leaf,2218.00,1776.00
+D,D8-3410,JACKIE,Wall Surface - 8W LED -3000K -CRI 90 - White,618.00,494.00
+D,D8-3411,JACKIE,Wall Surface - 8W LED -3000K -CRI 90 - Black,618.00,494.00
+D,D8-3412,JACKIE,Wall Surface - 8W LED -3000K -CRI 90 - Red,662.00,528.00
+D,D8-3413,JACKIE,Wall Surface - 8W LED -3000K -CRI 90 - Titanium,686.00,546.00
+D,D8-3424,JACKIE,Wall Surface - 8W LED -3000K -CRI 90 - White,758.00,598.00
+D,D8-3425,JACKIE,Wall Surface - 8W LED -3000K -CRI 90 - Black,758.00,598.00
+D,D8-3426,JACKIE,Wall Surface - 8W LED -3000K -CRI 90 - Red,834.00,660.00
+D,D8-3427,JACKIE,Wall Surface - 8W LED -3000K -CRI 90 - Titanium,872.00,698.00
+D,D8-3438,FLAT,Wall Surface - 19W LED - 3000K - 2200ll - CRI 80 - White,786.00,620.00
+D,D8-3439,APP,Wall Surface - 35W 120V LED - 3000K - White,2890.00,2170.00
+D,D8-3440,APP,Wall Surface - 17.5W 120V LED - 3000K - White,1660.00,1248.00
+D,D8-3441,APP,Wall Surface - 17.5W 120V LED - 3000K -  Titanium,1774.00,1340.00
+D,D8-3442,APP,Wall Surface - 35W 120V LED - 3000K - Titanium,3090.00,2336.00
+D,D8-4000,TWISTER,Table Lamp,1204.00,960.00
+D,D8-4001,TWISTER,Table Lamp,1790.00,1426.00
+D,D8-4002,TWISTER,Floor Lamp,2434.00,1932.00
+D,D8-4371,KUBIK,Table Lamp,670.00,538.00
+D,D8-4372,KUBIK,Table Lamp,750.00,602.00
+D,D8-4003,KUBIK,Table Lamp,472.00,472.00
+D,D8-4004,KUBIK,Table Lamp,726.00,726.00
+D,D8-4005,KUBIK,Floor Lamp,1898.00,1500.00
+D,D8-4007,BLOW,Table Lamp,1260.00,1008.00
+D,D8-4008,BLOW,Floor Lamp,1752.00,1404.00
+D,D8-4009,BLOW MINI,Table Lamp,474.00,374.00
+D,D8-4013,ALVI,Floor Lamp,1310.00,1310.00
+D,D8-4022,LUCILLA,Table Lamp,1390.00,1106.00
+D,D8-4048,BLISSY,Table Lamp,894.00,714.00
+D,D8-4049,BLISSY,Table Lamp,894.00,714.00
+D,D8-4050,BLISSY,Table Lamp,756.00,602.00
+D,D8-4051,BLISSY,Table Lamp,756.00,602.00
+D,D8-4052,BLISSY,Table Lamp,1468.00,1170.00
+D,D8-4053,BLISSY,Table Lamp,1468.00,1170.00
+D,D8-4054,BLISSY,Table Lamp,1130.00,904.00
+D,D8-4055,BLISSY,Table Lamp,1130.00,904.00
+D,D8-4056,BLISSY,Floor Lamp,2172.00,1720.00
+D,D8-4057,BLISSY,Floor Lamp,2172.00,1720.00
+D,D8-4058,BLISSY,Floor Lamp,1892.00,1496.00
+D,D8-4059,BLISSY,Floor Lamp,1892.00,1496.00
+D,D8-4060,CLASSIC,Table Lamp,670.00,528.00
+D,D8-4061,CLASSIC,Table Lamp,670.00,528.00
+D,D8-4062,CLASSIC,Table Lamp,1010.00,802.00
+D,D8-4063,CLASSIC,Table Lamp,1010.00,802.00
+D,D8-4064,CLASSIC,Floor Lamp,1706.00,1346.00
+D,D8-4065,CLASSIC,Floor Lamp,1706.00,1346.00
+D,D8-4069,TECLA,Table Lamp,1050.00,1050.00
+D,D8-4076,ZENITH,Table Lamp - Amber Glass,1024.00,1024.00
+D,D8-4079,DOMINO,Table Lamp - White Glass,476.00,382.00
+D,D8-4080,DOMINO,Table Lamp - Black Glass,476.00,382.00
+D,D8-4082,DOMINO,floor Lamp - White/White Glass,1864.00,1472.00
+D,D8-4092,CARRE,Table Lamp,790.00,624.00
+D,D8-4094,FLORAL,Table Lamp,1996.00,1600.00
+D,D8-4095,FLORAL,Table Lamp,3532.00,2776.00
+D,D8-4096,FLORAL,Floor Lamp,2426.00,2426.00
+D,D8-4102,RING,Floor Lamp - Black Glass,1394.00,1394.00
+D,D8-4111,TOURBILLON,Table Lamp - White/White Glass,684.00,684.00
+D,D8-4114,TOURBILLON,Table Lamp - White/Orange Glass,684.00,684.00
+D,D8-4117,TOURBILLON,Table Lamp - White/Black Glass,1536.00,1536.00
+D,D8-4168,DEBUT,Table Lamp  - Leopard/Silver,1780.00,1780.00
+D,D8-4209,SNAKE,Table Lamp - Smooth/Orange,1410.00,1410.00
+D,D8-4224,SNAKE,Floor Lamp - Smooth/Black,3790.00,3790.00
+D,D8-4241,TRACK,Table Lamp - Gray Metal,1032.00,824.00
+D,D8-4243,TRACK,Floor Lamp - Gray Metal,1316.00,1316.00
+D,D8-4244,RING,Table Lamp - White Glass,556.00,556.00
+D,D8-4319,SATURN,Floor Lamp - Printed Tanned/Brown,2430.00,2430.00
+D,D8-4327,POTTER,Floor Lamp,2090.00,1600.00
+D,D8-4330,DOMINO,Table Lamp - Gold Leaf,614.00,492.00
+D,D8-4344,DOMINO,Table Lamp - Copper Leaf,614.00,492.00
+D,D8-4345,DOMINO,Table Lamp - Gold Leaf,614.00,492.00
+D,D8-4331,POTTER,Floor Lamp,2510.00,2510.00
+D,D8-4337,CARRE,Floor Lamp - Chrome,1180.00,938.00
+E,D8-4333,RALPH,Table Lamp - Metallic Brown,2170.00,1728.00
+E,D8-4346,RALPH,Table Lamp - White,2170.00,1728.00
+E,D8-4347,RALPH,Floor Lamp with Base - 1 X 23W Fluo. - White,1970.00,1574.00
+E,D8-4334,RALPH,Floor Lamp with Base - 1 X 23W Fluo. - Metallic Brown,1970.00,1574.00
+E,D8-4335,RALPH,Floor Lamp with Base - 1 X 23W Fluo. - Metallic Brown,2834.00,2268.00
+E,D8-4348,RALPH,Floor Lamp with Base - 1 X 23W Fluo. - White,2834.00,2268.00
+E,D8-4340,RALPH,Floor Lamp with Spike,1970.00,1574.00
+E,D8-4349,RALPH,Floor Lamp with Spike - White,1970.00,1574.00
+E,D8-4370,LAMPyris,Floor Lamp Exterior - 13W 3000K -CRI>80 - Brown,1238.00,978.00
+D,D8-4351,JACKIE,Desk Lamp - 8W LED - 3000K - CRI 90 - White,786.00,630.00
+D,D8-4352,JACKIE,Desk Lamp - 8W LED - 3000K - CRI 90 - Black,786.00,630.00
+D,D8-4353,JACKIE,Desk Lamp - 8W LED - 3000K - CRI 90 - Red,882.00,698.00
+D,D8-4354,JACKIE,Desk Lamp - 8W LED - 3000K - CRI 90 - Titanium,914.00,734.00
+D,D8-4355,JACKIE,Desk Lamp with Clamp - 8W LED - 3000K - CRI 90 - White,658.00,528.00
+D,D8-4356,JACKIE,Desk Lamp with Clamp  - 8W LED - 3000K - CRI 90 - Black,658.00,528.00
+D,D8-4357,JACKIE,Desk Lamp with Clamp  - 8W LED - 3000K - CRI 90 - Red,734.00,590.00
+D,D8-4358,JACKIE,Desk Lamp with Clamp  - 8W LED - 3000K - CRI 90 - Titanium,774.00,622.00
+D,D8-4359,JACKIE,Desk Lamp with Pin - 8W LED - 3000K - CRI 90 - White,628.00,498.00
+D,D8-4360,JACKIE,Desk Lamp with Pin  - 8W LED - 3000K - CRI 90 - Black,628.00,498.00
+D,D8-4361,JACKIE,Desk Lamp with Pin  - 8W LED - 3000K - CRI 90 - Red,698.00,564.00
+D,D8-4362,JACKIE,Desk Lamp with Pin  - 8W LED - 3000K - CRI 90 - Titanium,746.00,598.00
+D,D8-4363,JACKIE,Floor Lamp - 8W LED - 3000K - CRI 90 - White,1186.00,950.00
+D,D8-4364,JACKIE,Floor Lamp - 8W LED - 3000K - CRI 90 - Black,1186.00,950.00
+D,D8-4365,JACKIE,Floor Lamp - 8W LED - 3000K - CRI 90 - Red,1328.00,1066.00
+D,D8-4366,JACKIE,Floor Lamp - 8W LED - 3000K - CRI 90 - Titanium,1352.00,1084.00
+D,D8-6480,FLAT,Recessed Ceiling  - 46W 3000K - White,1596.00,1244.00
+D,D8-6481,FLAT,Recessed Ceiling - 46W 3000K -  Metallized Brown,upon request,upon request
+D,D8-6482,FLAT,Recessed Ceiling - 46W 3000K -  Gold Leaf,upon request,upon request
+D,D8-6483,FLAT,Recessed Ceiling - 46W 3000K -  Silver Leaf,upon request,upon request
+D,D8-6484,FLAT,Recessed Ceiling - 46W 3000K -  Copper Leaf,upon request,upon request
+D,D8-6043,INVISIBLI,Fixed Fluoresent.280mm 2x26W,1004.00,794.00
+D,D8-6045,INVISIBLI,Fixed Fluorescent (70mm x 295mm) 1x 26W,1008.00,796.00
+D,D8-6053,INVISIBLI,Fixed Fluorescent (260mm x 260mm) 2x26W,1022.00,806.00
+D,D8-6054,INVISIBLI,Fixed Fluorescent (160mm x 255mm) 1x26W,698.00,548.00
+D,D8-6109,INVISIBLI,Fixed Plaster Light LED 3000K (260mm x 260mm),1120.00,886.00
+D,D8-6111,INVISIBLI,White Plaster Step Light LED 3000K (50mm x 100mm),274.00,220.00
+D,D8-6112,INVISIBLI,White Plaster Step Light LED 3000K (55mm x 100mm),274.00,220.00
+D,D8-6113,INVISIBLI,White Plaster Step Light LED 3000K (60mm x 100mm),274.00,220.00
+D,D8-6114,INVISIBLI,White Plaster Step Light LED 3000K (55mm x 100mm),274.00,220.00
+D,D8-6200,INVISIBLI,Adjustable Plaster Housing Frame (150mm x 150mm) w/LED 3000K 6.8W 350mA 40° 503lm IP20,404.00,326.00
+D,D8-6202,INVISIBLI,Adjustable Plaster Housing Frame (150mm x 150mm) w/LED 3000K 10.2W 700mA 40° 990lm IP20,482.00,388.00
+D,D8-6204,INVISIBLI,Adjustable Plaster Housing Frame (275mm x 150mm) w/LED 3000K 6.8W 350mA 40° 503lm IP20,668.00,538.00
+D,D8-6206,INVISIBLI,Adjustable Plaster Housing Frame (275mm x 150mm) w/LED 3000K 10.2W 700mA 40° 990lm IP20,820.00,660.00
+D,D8-6208,INVISIBLI,Adjustable Plaster Housing Frame (380mm x 150mm) w/LED 3000K 6.8W 350mA 40° 503lm IP20,932.00,752.00
+D,D8-6210,INVISIBLI,Adjustable Plaster Housing Frame (380mm x 150mm) w/LED 3000K 10.2W 700mA 40° 990lm IP20,1162.00,936.00
+D,D8-6212,INVISIBLI,Fixed Plaster Housing Frame (115mm x 115mm) w/LED 3000K 6.8W 350mA 40° 503lm IP20,312.00,252.00
+D,D8-6214,INVISIBLI,Fixed Plaster Housing Frame (115mm x 115mm) w/LED 3000K 10.2W 700mA 40° 990lm IP20,390.00,314.00
+D,D8-6220,INVISIBLI,Fixed Plaster Housing Frame (120mm x 120mm) w/ LED 3000K 6.8W 350mA 40° 503lm IP20,312.00,252.00
+D,D8-6222,INVISIBLI,Adjustable Plaster Housing Frame (200mm x 200mm) w/ LED 3000K 12W 12V 25° 420lm Lamp,746.00,578.00
+D,D8-6224,INVISIBLI,Adjustable Plaster Housing Frame (215mm x 215mm) w/ LED 3000K 12W 12V 25° 420lm Lamp,752.00,582.00
+D,D8-6226,INVISIBLI,Fixed Plaster Housing Frame (80mm x 420mm) w/ LED 3000K 6.8W 350mA 43° 503lm IP20,648.00,522.00
+D,D8-6228,INVISIBLI,Fixed Plaster Housing Frame (80mm x 420mm) w/ LED 3000K 10.2W 700mA 43° 990lm IP20,726.00,584.00
+D,D8-6230,INVISIBLI,Adjustable Plaster Housing Frame (170mm x 170mm) W/ LED 3000K 6.8W 350mA 43° 503lm IP20,424.00,340.00
+D,D8-6232,INVISIBLI,Adjustable Plaster Housing Frame (170mm x 170mm) w/ LED 3000K 10.2W 700mA 43° 990lm IP20,500.00,402.00
+D,D8-6234,INVISIBLI,Fixed Plaster Housing Frame (97mm x 97mm) w/ LED 3000K 6.8W 350mA 43° 503lm IP20,220.00,176.00
+D,D8-6236,INVISIBLI,Fixed Plaster Housing Frame (97mm x 97mm) w/ LED 3000K 10.2W 700mA 43° 990lm IP20,298.00,238.00
+D,D8-6238,INVISIBLI,Fixed Plaster Housing Frame (60mm) w/ LED 3000K 6.8W 350mA 43° 503lm IP20,222.00,178.00
+D,D8-6240,INVISIBLI,Fixed Plaster Housing Frame (60mm) w/ LED 3000K 10.2W 700mA 43° 990lm IP20,298.00,240.00
+D,D8-6242,INVISIBLI,Fixed Plaster Housing Frame (130mm x 130mm) w/ LED 3000K 6.8W 350mA 43° 503lm IP20,292.00,234.00
+D,D8-6244,INVISIBLI,Fixed Plaster Housing Frame (130mm x 130mm) w/ LED 3000K 10.2W 700mA 43° 990lm IP20,370.00,298.00
+D,D8-6246,INVISIBLI,Adjustable Plaster Housing Frame (180mm x 180mm) w/ LED 3000K 6.8W 350mA 43° 503lm IP20,424.00,340.00
+D,D8-6248,INVISIBLI,Adjustable Plaster Housing Frame (180mm x 180mm) w/ LED 3000K 10.2W 700mA 43° 990lm IP20,500.00,402.00
+D,D8-6260,INVISIBLI,White Plaster w/Adjustable Metallized Gray/White (200mm x 200mm) w/ LED 3000K 12W 12V 25° 420lm Lamp,770.00,596.00
+D,D8-6262,INVISIBLI,White Plaster w/Adjustable Metallized Gray/Black (200mm x 200mm) w/ LED 3000K 12W 12V 25° 420lm Lamp,770.00,596.00
+D,D8-6264,INVISIBLI,White Plaster w/Adjustable Metallized Gray/White (200mm x 350mm) w/ LED 3000K 12W 12V 25° 420lm Lamp,1312.00,1006.00
+D,D8-6266,INVISIBLI,White Plaster w/Adjustable Metallized Gray/Black (200mm x 350mm) w/ LED 3000K 12W 12V 25° 420lm Lamp,1312.00,1006.00
+D,D8-6268,INVISIBLI,White Plaster w/Adjustable Metallized Gray/White (200mm x 490mm) w/ LED 3000K 12W 12V 25° 420lm Lamp,1872.00,1432.00
+D,D8-6270,INVISIBLI,White Plaster w/Adjustable Metallized Gray/Black (200mm x 490mm) w/ LED 3000K 12W 12V 25° 420lm Lamp,1872.00,1432.00
+D,D8-6272,INVISIBLI,Fixed Plaster Housing Frame (500mm x 500mm) w/ LED 3000K 12W 12V 25° 420lm Lamp,944.00,734.00
+D,D8-6274,INVISIBLI,Fixed Plaster Housing Frame (115mm x 115mm) - with Glass w/ LED 3000K 5W 350mA 43° 503lm IP20,334.00,266.00
+D,D8-6275,INVISIBLI,Fixed Plaster Housing Frame (115mm x 115mm) - with Glass w/ LED 3000K 10W 700mA 43° 990lm IP20,410.00,328.00
+D,D8-6276,INVISIBLI,Fixed Round Plaster Housing Frame w/ LED 3000K 5W 350mA 43° 570lm CRI>80,190.00,152.00
+D,D8-6277,INVISIBLI,Fixed Round Plaster Housing Frame w/ LED 3000K 10W 700mA 43° 1080lm CRI>80,266.00,214.00
+D,D8-6278,INVISIBLI,Fixed Square Plaster Housing Frame w/ LED 3000K 5W 350mA 43° 570lm CRI>80,190.00,152.00
+D,D8-6279,INVISIBLI,Fixed Square Plaster Housing Frame w/ LED 3000K 10W 700mA 43° 1080lm CRI>80,266.00,214.00
+D,D8-6280,INVISIBLI,Fixed Square Plaster Housing Frame + LED 3000K 12W 12V 25° 420lm Lamp,430.00,324.00
+D,D8-6281,INVISIBLI,Fixed Plaster Recessed Housing Frame with Glass w/ LED 3000K 5W 350mA 43° 570lm CRI>80,430.00,344.00
+D,D8-6282,INVISIBLI,Fixed Plaster Recessed Housing Frame with Glass w/ LED 3000K 10W 700mA 43° 1080lm CRI>80,504.00,404.00
+D,D8-6283,INVISIBLI,Fixed Plaster Recessed Housing Frame with Glass,1104.00,876.00
+D,D8-6284,INVISIBLI,Fixed Plaster Recessed Housing Frame with Glass,784.00,620.00
+D,D8-6285,INVISIBLI,Fixed Plaster Recessed Housing Frame with Glass w/ LED 3000K 5W 350mA 43° 570lm CRI>80,416.00,334.00
+D,D8-6286,INVISIBLI,Fixed Plaster Recessed Housing Frame with Glass w/ LED 3000K 10W 700mA 43° 1080lm CRI>80,494.00,396.00
+D,D8-6287,INVISIBLI,Fixed Plaster Recessed Housing Frame with Glass w/ LED 3000K 5W 350mA 43° 570lm CRI>80,416.00,334.00
+D,D8-6288,INVISIBLI,Fixed Plaster Recessed Housing Frame with Glass w/ LED 3000K 10W 700mA 43° 1080lm CRI>80,494.00,396.00
+D,D8-6289,INVISIBLI,Fixed Plaster Light LED 18W 3000K,1092.00,866.00
+D,D8-6290,INVISIBLI,Fixed Plaster Light LED 11W 3000K,1068.00,847.00
+D,D8-6291,INVISIBLI,Fixed Plaster Light LED 12W 3000K,598.00,472.00
+A,D8-6324,BROOKLYN,510mm Profile with Disposable Shield for Levelling,76.00,62.00
+A,D8-6325,BROOKLYN,1010mm Profile with Disposable Shield for Levelling,156.00,124.00
+A,D8-6326,BROOKLYN,2010mm Profile with Disposable Shield for Levelling,304.00,242.00
+A,D8-6327,BROOKLYN,3010mm Profile with Disposable Shield for Levelling,508.00,406.00
+A,D8-6328,BROOKLYN OUT,500mm 28 LED 8.5W 24V 3000K CRI>80 strip w/Screen and reflector,138.00,110.00
+A,D8-6329,BROOKLYN OUT,125mm 7 LED 2.1W 24V 3000K CRI>80 strip w/Screen and reflector,52.00,42.00
+A,D8-6330,BROOKLYN,Wing nut in Drywall for adjustable installation for XG2033,46.00,36.00
+A,D8-6331,BROOKLYN,Pair of end Components with Screws for XG2033,24.00,20.00
+A,D8-6332,BROOKLYN TRIM,Plate for Fixing to Brick,24.00,20.00
+A,D8-6333,BROOKLYN OUT,Polycarbonate Screen 3700mm,180.00,146.00
+A,D8-6334,BROOKLYN OUT/TRIM,1000mm Dividable Reflector in Polished Aluminum,44.00,36.00
+A,D8-6335,BROOKLYN,Mounting Plate for Suspension Cables,20.00,16.00
+A,D8-6337,BROOKLYN,Veritcal Angle Connector,30.00,24.00
+A,D8-6338,BROOKLYN OUT,Linear Connector,24.00,20.00
+A,D8-6339,BROOKLYN,90° Corner connector for XG2033,74.00,60.00
+A,D8-6476,BROOKLYN TRIM,90° Corner connector for XG2033,74.00,60.00
+A,D8-6340,BROOKLYN,T-Connector for XG2033/XG2035,42.00,32.00
+A,D8-6341,BROOKLYN,X-Connector for XG2033/XG2035,46.00,38.00
+A,D8-6342,BROOKLYN TRIM,Power Cables,16.00,14.00
+A,D8-6357,BROOKLYN OUT,Pair of Adhesive Linear Light Covers,11.00,8.00
+A,D8-6358,BROOKLYN OUT,Power Kit for Suspension -White Canopy + 100W Driver,500.00,376.00
+A,D8-6392,BROOKLYN TRIM,510mm Profile with Polycarbonate Diffuser,76.00,60.00
+A,D8-6394,BROOKLYN TRIM,1010mm Profile with Polycarbonate Diffuser,156.00,124.00
+A,D8-6395,BROOKLYN TRIM,2010mm Profile with Polycarbonate Diffuser,304.00,242.00
+A,D8-6396,BROOKLYN TRIM,3010mm Profile with Polycarbonate Diffuser,450.00,360.00
+A,D8-6397,BROOKLYN TRIM,Wing nut in Drywall for adjustable installation,36.00,28.00
+A,D8-6398,BROOKLYN TRIM,Pair of End Caps with Screws,30.00,24.00
+A,D8-6399,BROOKLYN OUT,Pair of End Caps with Screws,30.00,24.00
+A,D8-6400,BROOKLYN OUT,90° Corner Connector Trimless,82.00,66.00
+A,D8-6401,BROOKLYN OUT,Power Kit for Ceiling/wall -White Canopy + 100W Driver,454.00,338.00
+A,D8-6442,MANHATTAN,420mm Profile with Aluminum Mount for LED and Polycarbonate Diffuser - White,122.00,96.00
+A,D8-6442C,MANHATTAN,420mm Profile with Aluminum Mount for LED and Polycarbonate Diffuser - Copper Leaf,228.00,182.00
+A,D8-6442G,MANHATTAN,420mm Profile with Aluminum Mount for LED and Polycarbonate Diffuser - Gold Leaf,228.00,182.00
+A,D8-6442S,MANHATTAN,420mm Profile with Aluminum Mount for LED and Polycarbonate Diffuser - Silver Leaf,228.00,182.00
+A,D8-6443,MANHATTAN,920mm Profile with Aluminum Mount for LED and Polycarbonate Diffuser - White,264.00,210.00
+A,D8-6443C,MANHATTAN,920mm Profile with Aluminum Mount for LED and Polycarbonate Diffuser - Copper Leaf,498.00,400.00
+A,D8-6443G,MANHATTAN,920mm Profile with Aluminum Mount for LED and Polycarbonate Diffuser - Gold Leaf,498.00,400.00
+A,D8-6443S,MANHATTAN,920mm Profile with Aluminum Mount for LED and Polycarbonate Diffuser - Silver Leaf,498.00,400.00
+A,D8-6444,MANHATTAN,1920mm Profile with Aluminum Mount for LED and Polycarbonate Diffuser - White,550.00,440.00
+A,D8-6444C,MANHATTAN,1920mm Profile with Aluminum Mount for LED and Polycarbonate Diffuser - Copper Leaf,1046.00,838.00
+A,D8-6444G,MANHATTAN,1920mm Profile with Aluminum Mount for LED and Polycarbonate Diffuser - Gold Leaf,1046.00,838.00
+A,D8-6444S,MANHATTAN,1920mm Profile with Aluminum Mount for LED and Polycarbonate Diffuser - Silver Leaf,1046.00,838.00
+A,D8-6445,MANHATTAN,2920mm Profile with Aluminum Mount for LED and Polycarbonate Diffuser - White,832.00,664.00
+A,D8-6445C,MANHATTAN,2920mm Profile with Aluminum Mount for LED and Polycarbonate Diffuser - Copper Leaf,1582.00,1268.00
+A,D8-6445G,MANHATTAN,2920mm Profile with Aluminum Mount for LED and Polycarbonate Diffuser - Gold Leaf,1582.00,1268.00
+A,D8-6445S,MANHATTAN,2920mm Profile with Aluminum Mount for LED and Polycarbonate Diffuser - Silver Leaf,1582.00,1268.00
+A,D8-6446,MANHATTAN,LED Strip 3mt Roll - 35W/mt (10.7W/ft) - 24V - 3000K,1040.00,744.00
+A,D8-6475,MANHATTAN,LED Strip 3mt Roll - 35W/mt (10.7W/ft) - 24V - 4000K,1040.00,744.00
+A,D8-6447,MANHATTAN,Left Turn Angle 90° ,152.00,122.00
+A,D8-6448,MANHATTAN,Right Turn Angle 90°,152.00,122.00
+A,D8-6449,MANHATTAN,Inside Corner Angle 90°,152.00,122.00
+A,D8-6450,MANHATTAN,Outside Corner Angle 90°,152.00,122.00
+A,D8-6451,MANHATTAN,Pair of Linear Connectors,34.00,28.00
+A,D8-6452,MANHATTAN,Pair of Brackets for False Ceiling Installation,38.00,32.00
+A,D8-6453,MANHATTAN,Pair of Brackets for Flush Wall Installation,34.00,28.00
+A,D8-6454,MANHATTAN,Plate for Hanging from Ceiling,16.00,12.00
+A,D8-6455,MANHATTAN,Pair of End Caps with Screws (White),26.00,22.00
+A,D8-6455C,MANHATTAN,Pair of End Caps with Screws (Copper Leaf),52.00,42.00
+A,D8-6455G,MANHATTAN,Pair of End Caps with Screws (Gold Leaf),52.00,42.00
+A,D8-6455S,MANHATTAN,Pair of End Caps with Screws (Silver Leaf),52.00,42.00
+A,D8-6456,MANHATTAN,Power Supply Compartment with Screws,42.00,34.00
+A,D8-6474,BROOKLYN OUT,Single Suspension Kit,54.00,44.00
+D,D8-6115,INVISIBLI,LED AR111 Retrofit Lamp,316.00,316.00
+D,D8-6116,INVISIBLI,LED Lamp 6.8W - 503lm - 350mA - 19.4V - 3000K - 43° CRI>80,110.00,90.00
+D,D8-9052,INVISIBLI,LED Lamp 10.2W - 990lm - 350mA - 29.2V - 3000K - 43° CRI>80,188.00,150.00
+D,D8-9000,CLASSIC,Glass Screen - 22cm DIA ,38.00,30.00
+D,D8-9001,CLASSIC,Glass Screen - 25cm DIA ,44.00,36.00
+D,D8-9002,CLASSIC,Glass Screen - 36cm DIA ,72.00,58.00
+D,D8-9003,OFFSET,Swag Ceiling Mount Accessory - Metallic Gray,38.00,30.00
+D,D8-9004,OFFSET,Swag Ceiling Mount Accessory - Metallic Gray,30.00,24.00
+D,D8-9007,OFFSET,Swag Accessory Canopy - 1 Hole - Metallic Gray,84.00,68.00
+D,D8-9008,OFFSET,Swag Accessory Canopy - 1 Hole - Nickel,84.00,68.00
+D,D8-9009,OFFSET,Swag Accessory Canopy - 2 Hole - Metallic Gray,84.00,68.00
+D,D8-9010,OFFSET,Swag Accessory Canopy - 2 Hole - Nickel,84.00,68.00
+D,D8-9011,OFFSET,Swag Accessory Canopy - 3 Hole - Metallic Gray,84.00,68.00
+D,D8-9012,OFFSET,Swag Accessory Canopy - 3 Hole - Nickel,84.00,68.00
+D,D8-9013,ACCESSORY,1.2 MT Track for Cord Hung Pendants,426.00,344.00
+D,D8-9014,ACCESSORY,1.2 MT Track for Cord Hung Pendants,426.00,344.00
+D,D8-9017,CARRE,Glass Screen 24cm x 24cm,38.00,30.00
+D,D8-9024,VENEZIANI,Chain Cover (White),86.00,68.00
+D,D8-9026,VENEZIANI,Ceiling Hook,52.00,42.00
+D,D8-9028,OFFSET,1 Hole White Canopy (White),84.00,68.00
+D,D8-9029,OFFSET,2 Hole White Canopy (White),84.00,68.00
+D,D8-9030,OFFSET,3 Hole White Canopy (White),84.00,68.00
+D,D8-9031,OFFSET,1 Hole White Canopy (Metallic Gray),84.00,68.00
+D,D8-9032,OFFSET,2 Hole White Canopy (Metallic Gray),84.00,68.00
+D,D8-9033,OFFSET,3 Hole White Canopy (Metallic Gray),84.00,68.00
+D,D8-9034,OFFSET,1 Hole White Canopy (Nickel),92.00,74.00
+D,D8-9035,OFFSET,2 Hole White Canopy (Nickel),92.00,74.00
+D,D8-9036,OFFSET,3 Hole White Canopy (Nickel),92.00,74.00
+D,D8-9037,OFFSET,1 Hole White Canopy (Chrome),92.00,74.00
+D,D8-9038,OFFSET,2 Hole White Canopy (Chrome),92.00,74.00
+D,D8-9039,OFFSET,3 Hole White Canopy (Chrome),92.00,74.00
+D,D8-9040,RALPH,Wall Surface Mounting Bracket,76.00,60.00
+D,D8-9041,ACCESSORY,Plaster Kit,100.00,80.00
+D,D8-9044,EMMA / CLIO,Canopy 9 Output - Black,268.00,214.00
+D,D8-9045,EMMA / CLIO,Canopy 9 Output - Copper,364.00,292.00
+,D8-1561,NOLITA OUT,LED Suspension 120cm 3000K,1490.00,1190.00
+,D8-2296,NOLITA OUT,LED Surface 120cm 3000K,1264.00,1010.00
+,D8-6491,NOLITA TRIM,LED Recessed 120cm 3000K,1364.00,1090.00

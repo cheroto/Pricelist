@@ -1,0 +1,134 @@
+<html>
+    <head>
+        <title>Dynamic Pricelist</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    </head>
+    <body>
+<!--    <form >
+          <input list="filelist" id="filelistID">
+          <datalist id="filelist">
+            <option value="test.csv">
+          </datalist> 
+        </form> -->
+        <input type="file" id="fileinput" accept=".csv" />
+        <form onSubmit="return false">
+            <div>Input:</div>
+            <input id="i1" type:"text" name="fname" onkeyup=writeTable(event)>
+        </form>
+        <div id="text"></div>
+        <style>
+            *{
+                text-align: center;
+            }
+                table, th, td{
+                text-align: left;
+                margin-left: auto;
+                margin-right: auto;
+                border: 1px solid black;
+                padding: 0.2em;
+            }
+            .FirstRow{
+                font-weight: bold;
+                text-align: center;
+            }
+            .CAD{
+                color:red;
+                text-align: center;
+font-weight: bold;
+
+            }
+            .USD{
+                color:blue;
+                text-align: center;
+                font-weight: bold;
+                
+            }
+            .LwerCase{
+                text-transform: lowercase;
+            }
+            body{
+                margin-bottom: 5em;
+            }
+        </style>
+        <script>
+            function changeFile(d) {
+                if (d == 'Select document') return;
+                document.getElementById('fileinput').files[0] = d;
+            }
+            var lines = [];
+
+            function readSingleFile(evt) {
+
+            var f = evt.target.files[0]; 
+            if (f) {
+                var r = new FileReader();
+                r.onload = function(e) { 
+                    var contents = e.target.result;
+                    lines = contents.split("\n");
+                    var output = [];
+
+                    writeTable();
+                }
+                r.readAsText(f);
+
+            } 
+            else { 
+                alert("Failed to load file");
+            }
+            }
+            function writeTable(e){
+                if (e == null) {
+                    e = 0;
+                }
+                if (e.keyCode == 13 || e == 0){
+                    var text = document.getElementById("i1").value.toLowerCase();
+                    var output = [];
+                    var link;
+
+                    output.push("<tr class='FirstRow'><td>" + "Link</td><td>" + lines[0].split(",").join("</td><td>") + "</td></tr>");
+                    for (var i=1; i<lines.length; i++){
+                        if (lines[i].toLowerCase().search(text) >= 0){
+                            link = lines[i].replace(/\./g,'-dot-').toLowerCase().split(",")[1];
+                            if (typeof(link) != "undefined" && link.substring(0,2) == "l2"){                           
+                                link = link.substring(0,6);
+                            }
+
+                            if (typeof(link) != "undefined" && link.substring(link.length-2,link.length) == "us"){
+                                console.log(link.substring(link.length-2,link.length));
+                                link = link.replace(/dot-1-|dot-0-/,'');
+                                link = link.replace('99-dot-us','99');
+                            }
+                            if (typeof(link) != "undefined" && link.substring(0,2) == "l9"){
+                                console.log(link.substring(link.length-2,link.length));
+                                link = link.replace(/_+/,'');
+                            }
+                            data = lines[i].split(",");
+                            priceCAD = "<td class='CAD'>CAD $"+data[data.length - 2]+"</td>";
+                            priceUSD = "<td class='USD'>USD $"+data[data.length - 1]+"</td>";
+                            data = data.slice(0,data.length - 2).join("</td><td>");
+                            //output.push("<tr class='row'><td>" + "<a href=" + "http://www.zaneen.com/products/" + link +  " target='_blank'>Link</a></td><td>" + lines[i].split(",").join("</td><td>") + "</td></tr>");
+                            output.push("<tr><td>" + "<a href=" + "http://www.zaneen.com/products/" + link +  " target='_blank'>Link</a></td><td>" + data + priceCAD + priceUSD + "</tr>");
+                        }
+                    }
+                    output = "<table>" + output.join("") + "</table>";
+                    //document.getElementById("text").textContent = output;
+                    document.getElementById("text").innerHTML = output;
+                }
+            }
+            document.getElementById('fileinput').addEventListener('change', readSingleFile);
+            //document.getElementById('filelistID').addEventListener('change', readSingleFile);
+
+
+        </script>
+    </body>
+	<script>
+		$(document).ready(function(){
+			$("#text").on('mouseenter', 'td', function(){
+				$(this).css('background-color',  'yellow');
+			});
+			$("#text").on('mouseleave', 'td', function(){
+				$(this).css('background-color',  'white');
+			});
+		});
+	</script>
+</html>
