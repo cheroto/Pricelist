@@ -121,13 +121,15 @@ font-weight: bold;
 
         </script>
     </body>
+	<style>
+		.OnHover{
+			background-color: yellow;
+		}
+	</style>
 	<script>
 		$(document).ready(function(){
-			$("#text").on('mouseenter', 'td', function(){
-				$(this).css('background-color',  'yellow');
-			});
-			$("#text").on('mouseleave', 'td', function(){
-				$(this).css('background-color',  'white');
+			$("#text").on('click', 'tr', function(){
+				$(this).toggleClass('OnHover');
 			});
 		});
 	</script>
